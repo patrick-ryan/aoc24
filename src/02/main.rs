@@ -48,7 +48,7 @@ fn part1() {
     println!("Total: {total}")
 }
 
-fn part2_first_attempt() {
+fn _part2_first_attempt() {
     let lines = aoc24::parse_arg_file_lines();
 
     let mut total = 0;
